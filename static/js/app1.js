@@ -14183,7 +14183,7 @@ webpackJsonp([69], {
                 return t("p", {staticClass: "text-small margin-y"});
             }, function () {
                 var e = this.$createElement, t = this._self._c || e;
-                return t("p", {staticClass: "text-small margin-y"}, [this._v("\n        Belum punya akun Digiflazz? "), t("a", {attrs: {href: "./register.html"}}, [this._v("Daftar disini")])])
+                return t("p", {staticClass: "text-small margin-y"}, [this._v("\n        Belum punya akun SURYA SENTOSA SELALU? "), t("a", {attrs: {href: "./register.html"}}, [this._v("Daftar disini")])])
             }]
         }
     }, Ty1W: function (e, t, i) {
@@ -19359,7 +19359,7 @@ webpackJsonp([69], {
                 }, [e._v("Daftar")])], 1)], 1), e._v(" "), e._m(0)], 1)
             }, staticRenderFns: [function () {
                 var e = this.$createElement, t = this._self._c || e;
-                return t("p", {staticClass: "text-small margin-y"}, [this._v("\n        Sudah punya akun Digiflazz? "), t("a", {attrs: {href: "./login.html"}}, [this._v("Login disini")])])
+                return t("p", {staticClass: "text-small margin-y"}, [this._v("\n        Sudah punya akun SURYA SENTOSA SELALU? "), t("a", {attrs: {href: "./login.html"}}, [this._v("Login disini")])])
             }]
         }
     }, i4uy: function (e, t) {
